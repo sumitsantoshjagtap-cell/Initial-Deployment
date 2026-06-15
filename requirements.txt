@@ -16,3 +16,5 @@ pandas_market_calendars
 quantstats
 scikit-learn
 python-louvain
+fastparquet
+pyarrow
