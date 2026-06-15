@@ -1,1 +1,25 @@
-community concurrent dash hmmlearn itertools json logging matplotlib networkx numpy os pandas pandas_market_calendars pathlib pickle plotly pypfopt quantstats ruptures scipy seaborn sklearn statsmodels typing warnings yfinance
+community 
+concurrent 
+dash 
+hmmlearn 
+itertools 
+logging 
+matplotlib 
+networkx 
+numpy 
+os 
+pandas 
+pandas_market_calendars 
+pathlib 
+pickle 
+plotly 
+pypfopt 
+quantstats 
+ruptures 
+scipy 
+seaborn 
+sklearn 
+statsmodels 
+typing 
+warnings 
+yfinance
