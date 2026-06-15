@@ -1,0 +1,17 @@
+dash
+pandas
+numpy
+plotly
+gunicorn
+scipy
+statsmodels
+pypfopt
+yfinance
+hmmlearn
+ruptures
+seaborn
+matplotlib
+networkx
+pandas_market_calendars
+quantstats
+scikit-learn
