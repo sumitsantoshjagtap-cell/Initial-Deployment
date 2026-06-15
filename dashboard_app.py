@@ -6,7 +6,7 @@ from pathlib import Path
 
 # Import the dashboard builder from your main script
 # (rename your original file to pipeline.py if it's still called dashboard_app.py)
-from dashboard_app import run_phase9, STOCKS, FORECAST_HORIZONS, HORIZON_COLORS, MIN_TRAIN_MONTHS
+from pipeline import run_phase9, STOCKS, FORECAST_HORIZONS, HORIZON_COLORS, MIN_TRAIN_MONTHS
 
 OUTPUT_DIR = Path("pipeline_outputs")
 ANNUAL_RISK_FREE = 0.065
