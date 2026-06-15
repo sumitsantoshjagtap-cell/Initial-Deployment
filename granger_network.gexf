@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-06-15">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="HDFCBANK.NS" label="HDFCBANK.NS" />
+      <node id="BHARTIARTL.NS" label="BHARTIARTL.NS" />
+      <node id="APOLLOHOSP.NS" label="APOLLOHOSP.NS" />
+      <node id="BIOCON.NS" label="BIOCON.NS" />
+      <node id="JSWENERGY.NS" label="JSWENERGY.NS" />
+      <node id="SUDARSCHEM.NS" label="SUDARSCHEM.NS" />
+      <node id="AEGISLOG.NS" label="AEGISLOG.NS" />
+      <node id="KPRMILL.NS" label="KPRMILL.NS" />
+      <node id="GREENLAM.NS" label="GREENLAM.NS" />
+      <node id="CAMLINFINE.NS" label="CAMLINFINE.NS" />
+      <node id="SURYAROSNI.NS" label="SURYAROSNI.NS" />
+      <node id="EIDPARRY.NS" label="EIDPARRY.NS" />
+      <node id="BANDHANBNK.NS" label="BANDHANBNK.NS" />
+      <node id="ABREL.NS" label="ABREL.NS" />
+      <node id="INDIGO.NS" label="INDIGO.NS" />
+      <node id="MARATHON.NS" label="MARATHON.NS" />
+      <node id="LTTS.NS" label="LTTS.NS" />
+      <node id="ASTERDM.NS" label="ASTERDM.NS" />
+    </nodes>
+    <edges>
+      <edge source="HDFCBANK.NS" target="BIOCON.NS" id="0" weight="0.9504974105473871" />
+      <edge source="HDFCBANK.NS" target="SURYAROSNI.NS" id="1" weight="0.9535262579857536" />
+      <edge source="BHARTIARTL.NS" target="BANDHANBNK.NS" id="2" weight="0.9877304325735119" />
+      <edge source="BHARTIARTL.NS" target="MARATHON.NS" id="3" weight="0.9594736018661882" />
+      <edge source="BHARTIARTL.NS" target="LTTS.NS" id="4" weight="0.9600142159756895" />
+      <edge source="APOLLOHOSP.NS" target="BIOCON.NS" id="5" weight="0.9642745500639773" />
+      <edge source="APOLLOHOSP.NS" target="BANDHANBNK.NS" id="6" weight="0.9943989959544008" />
+      <edge source="BIOCON.NS" target="EIDPARRY.NS" id="7" weight="0.9741520546222222" />
+      <edge source="BIOCON.NS" target="MARATHON.NS" id="8" weight="0.9629102660824713" />
+      <edge source="JSWENERGY.NS" target="APOLLOHOSP.NS" id="9" weight="0.9933730936628857" />
+      <edge source="JSWENERGY.NS" target="GREENLAM.NS" id="10" weight="0.9676190099916858" />
+      <edge source="JSWENERGY.NS" target="ABREL.NS" id="11" weight="0.990788658811743" />
+      <edge source="JSWENERGY.NS" target="LTTS.NS" id="12" weight="0.9887948500819987" />
+      <edge source="SUDARSCHEM.NS" target="BHARTIARTL.NS" id="13" weight="0.9929158280334955" />
+      <edge source="AEGISLOG.NS" target="BHARTIARTL.NS" id="14" weight="0.9582356227501558" />
+      <edge source="KPRMILL.NS" target="CAMLINFINE.NS" id="15" weight="0.991553531708022" />
+      <edge source="KPRMILL.NS" target="ABREL.NS" id="16" weight="0.9551062670554706" />
+      <edge source="KPRMILL.NS" target="LTTS.NS" id="17" weight="0.9654159167598758" />
+      <edge source="GREENLAM.NS" target="JSWENERGY.NS" id="18" weight="0.9640147775143177" />
+      <edge source="GREENLAM.NS" target="CAMLINFINE.NS" id="19" weight="0.963106545353941" />
+      <edge source="CAMLINFINE.NS" target="HDFCBANK.NS" id="20" weight="0.9648733648245419" />
+      <edge source="CAMLINFINE.NS" target="APOLLOHOSP.NS" id="21" weight="0.9925005161519455" />
+      <edge source="CAMLINFINE.NS" target="BIOCON.NS" id="22" weight="0.9547519378684948" />
+      <edge source="CAMLINFINE.NS" target="AEGISLOG.NS" id="23" weight="0.9834766418603438" />
+      <edge source="CAMLINFINE.NS" target="ASTERDM.NS" id="24" weight="0.9937794005660591" />
+      <edge source="SURYAROSNI.NS" target="BHARTIARTL.NS" id="25" weight="0.9727010705019214" />
+      <edge source="SURYAROSNI.NS" target="APOLLOHOSP.NS" id="26" weight="0.9987467471689826" />
+      <edge source="SURYAROSNI.NS" target="ABREL.NS" id="27" weight="0.9826000940647452" />
+      <edge source="SURYAROSNI.NS" target="LTTS.NS" id="28" weight="0.9979249194852294" />
+      <edge source="EIDPARRY.NS" target="BANDHANBNK.NS" id="29" weight="0.9948105933584692" />
+      <edge source="ABREL.NS" target="BHARTIARTL.NS" id="30" weight="0.960673542552491" />
+      <edge source="ABREL.NS" target="KPRMILL.NS" id="31" weight="0.9999202114061189" />
+      <edge source="ABREL.NS" target="GREENLAM.NS" id="32" weight="0.9523839045897289" />
+      <edge source="ABREL.NS" target="CAMLINFINE.NS" id="33" weight="0.973357257201573" />
+      <edge source="ABREL.NS" target="SURYAROSNI.NS" id="34" weight="0.9834090040882761" />
+      <edge source="ABREL.NS" target="EIDPARRY.NS" id="35" weight="0.9755099601540046" />
+      <edge source="INDIGO.NS" target="HDFCBANK.NS" id="36" weight="0.9906986002482997" />
+      <edge source="INDIGO.NS" target="BIOCON.NS" id="37" weight="0.9640266931540625" />
+      <edge source="INDIGO.NS" target="KPRMILL.NS" id="38" weight="0.9851050226359865" />
+      <edge source="INDIGO.NS" target="SURYAROSNI.NS" id="39" weight="0.9500103767502458" />
+      <edge source="MARATHON.NS" target="BIOCON.NS" id="40" weight="0.9840095935093468" />
+      <edge source="MARATHON.NS" target="KPRMILL.NS" id="41" weight="0.9824885663481591" />
+      <edge source="MARATHON.NS" target="BANDHANBNK.NS" id="42" weight="0.9545804624758287" />
+      <edge source="MARATHON.NS" target="ABREL.NS" id="43" weight="0.9613106165525832" />
+      <edge source="LTTS.NS" target="BIOCON.NS" id="44" weight="0.956728370410905" />
+      <edge source="ASTERDM.NS" target="APOLLOHOSP.NS" id="45" weight="0.96565292450288" />
+      <edge source="ASTERDM.NS" target="CAMLINFINE.NS" id="46" weight="0.9981672058048847" />
+      <edge source="ASTERDM.NS" target="SURYAROSNI.NS" id="47" weight="0.9669368509599324" />
+      <edge source="ASTERDM.NS" target="EIDPARRY.NS" id="48" weight="0.9557612279008916" />
+      <edge source="ASTERDM.NS" target="BANDHANBNK.NS" id="49" weight="0.9966368941684586" />
+      <edge source="ASTERDM.NS" target="MARATHON.NS" id="50" weight="0.9717794443759252" />
+    </edges>
+  </graph>
+</gexf>
